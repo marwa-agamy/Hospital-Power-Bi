@@ -17,11 +17,10 @@ This project analyzes **Hospital Emergency Room (ER) data** to uncover patterns 
 ## 🚀 How to Use  
 1. Open **Power BI Desktop**  
 2. Import dataset: `Hospital ER_Data.csv`  
-3. Apply transformations using **Power Query** (already documented in `.pbix` file if provided)  
+3. Apply transformations using **Power Query**  
 4. Explore the interactive **dashboard**  
 
 ## 📈 Key Insights  
-- Peak ER visit hours  
 - Average patient waiting time  
 - Admission vs. discharge trends  
 - Demographic analysis of ER visits  

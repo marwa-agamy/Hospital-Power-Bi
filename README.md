@@ -10,9 +10,6 @@ This project analyzes **Hospital Emergency Room (ER) data** to uncover patterns 
 ✅ **Time Analysis** – Trends in patient arrivals and wait times  
 ✅ **Performance Insights** – Identify bottlenecks and resource usage  
 
-## 📊 Dashboard Preview  
-![Dashboard Screenshot](Hospital-PowerBi.png)  
-
 ## 📂 Dataset  
 - **File:** `Hospital ER_Data.csv`  
 - **Contents:** Patient ER visit records, including demographics, admission type, waiting time, discharge status, and other key metrics.  
